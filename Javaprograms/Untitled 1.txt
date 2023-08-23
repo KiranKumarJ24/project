@@ -1,0 +1,8 @@
+package com.dest;
+import java.io.IOException;
+ @webservlet("/Program1")
+ public class Program1 extends HttpServlet{
+ @Override
+ protected void service(HttpServletRequest req,
+ HttpServletResponse resp)
+ throws ServletException,IOException

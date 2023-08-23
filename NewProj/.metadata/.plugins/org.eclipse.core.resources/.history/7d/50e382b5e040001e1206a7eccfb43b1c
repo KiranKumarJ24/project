@@ -1,0 +1,11 @@
+package com.destination;
+ import java.io.IOException;
+ 
+ /**
+ * Servlet implementation class Servlet1
+ */
+ @WebServlet("/Addition")
+ class Addition extends HttpServlet{
+	 @Override
+	 
+ }
